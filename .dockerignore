@@ -1,0 +1,16 @@
+# Hidden files and folders
+.*
+.*/
+
+# Build or output folders
+./build/
+!build/libs
+
+# Non-build related files
+gradlew
+gradlew.bat
+LICENSE
+README.md
+docker-compose.*
+Dockerfile
+
