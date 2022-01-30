@@ -1,4 +1,4 @@
-FROM openjdk:11.0.10-jre-buster
+FROM openjdk:11.0.12-jre-buster
 
 RUN mkdir /server
 WORKDIR /server
